@@ -1,0 +1,19 @@
+{
+  "name": "neodependencygraph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "neo4j-driver": "^4.4.6"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

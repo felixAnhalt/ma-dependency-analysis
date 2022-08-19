@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "sourceMap": true,
+    "lib": ["dom", "dom.iterable", "esnext", "es6"],
+    "baseUrl": "./",
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "module": "CommonJS",
+    "allowJs": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "noFallthroughCasesInSwitch": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "inlineSources": true,
+    "outDir": "dist"
+  }
+}

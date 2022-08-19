@@ -1,0 +1,248 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="711.8348388671875" height="845.502197265625" viewBox="-310.5107116699219 -579.0543212890625 711.8348388671875 845.502197265625">
+    <title>Neo4j Graph Visualization</title>
+    <desc>Created using Neo4j (http://www.neo4j.com/)</desc>
+    <g class="layer relationships">
+        <g class="relationship" transform="translate(159.81813597232076 43.80124731187274) rotate(208.18266512491243)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 87.70405681878208 0.5 L 87.70405681878208 -0.5 L 25 -0.5 Z M 160.37983806878208 0.5 L 223.08389488756416 0.5 L 223.08389488756416 3.5 L 230.08389488756416 0 L 223.08389488756416 -3.5 L 223.08389488756416 -0.5 L 160.37983806878208 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="124.04194744378208" y="3" transform="rotate(180 124.04194744378208 0)" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+        <g class="relationship" transform="translate(340.0367469251667 -17.301635883034734) rotate(250.87224411743972)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 58.54645546404829 0.5 L 58.54645546404829 -0.5 L 25 -0.5 Z M 131.22223671404828 0.5 L 164.7686921780966 0.5 L 164.7686921780966 3.5 L 171.7686921780966 0 L 164.7686921780966 -3.5 L 164.7686921780966 -0.5 L 131.22223671404828 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="94.8843460890483" y="3" transform="rotate(180 94.8843460890483 0)" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+        <g class="relationship" transform="translate(-206.7068878640819 -92.14346274113274) rotate(333.3330898204913)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 48.83017241715508 0.5 L 48.83017241715508 -0.5 L 25 -0.5 Z M 121.50595366715508 0.5 L 145.33612608431017 0.5 L 145.33612608431017 3.5 L 152.33612608431017 0 L 145.33612608431017 -3.5 L 145.33612608431017 -0.5 L 121.50595366715508 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="85.16806304215508" y="3" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+        <g class="relationship" transform="translate(-206.7068878640819 -92.14346274113274) rotate(489.92180152983076)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 25.555338983435107 0.5 L 25.555338983435107 -0.5 L 25 -0.5 Z M 84.0084639834351 0.5 L 84.56380296687021 0.5 L 84.56380296687021 3.5 L 91.56380296687021 0 L 84.56380296687021 -3.5 L 84.56380296687021 -0.5 L 84.0084639834351 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="54.78190148343511" y="3" transform="rotate(180 54.78190148343511 0)" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDEN…</text>
+        </g>
+        <g class="relationship" transform="translate(-49.054015486494876 -320.9344820303262) rotate(386.3850367949004)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 34.95237016721762 0.5 L 34.95237016721762 -0.5 L 25 -0.5 Z M 107.62815141721762 0.5 L 117.58052158443525 0.5 L 117.58052158443525 3.5 L 124.58052158443525 0 L 117.58052158443525 -3.5 L 117.58052158443525 -0.5 L 107.62815141721762 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="71.29026079221762" y="3" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+        <g class="relationship" transform="translate(-48.2338755464022 -171.7324442747024) rotate(328.1520908788128)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 38.55282069983605 0.5 L 38.55282069983605 -0.5 L 25 -0.5 Z M 111.22860194983605 0.5 L 124.7814226496721 0.5 L 124.7814226496721 3.5 L 131.7814226496721 0 L 124.7814226496721 -3.5 L 124.7814226496721 -0.5 L 111.22860194983605 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="74.89071132483605" y="3" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+        <g class="relationship" transform="translate(34.55892119326247 -130.388819268436) rotate(292.1020173442096)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 27.118306382098723 0.5 L 27.118306382098723 -0.5 L 25 -0.5 Z M 99.79408763209872 0.5 L 101.91239401419745 0.5 L 101.91239401419745 3.5 L 108.91239401419745 0 L 101.91239401419745 -3.5 L 101.91239401419745 -0.5 L 99.79408763209872 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="63.45619700709872" y="3" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+        <g class="relationship" transform="translate(101.03259561071837 -58.0105626400744) rotate(265.31823061196076)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 58.71601844445078 0.5 L 58.71601844445078 -0.5 L 25 -0.5 Z M 131.39179969445078 0.5 L 165.10781813890156 0.5 L 165.10781813890156 3.5 L 172.10781813890156 0 L 165.10781813890156 -3.5 L 165.10781813890156 -0.5 L 131.39179969445078 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="95.05390906945078" y="3" transform="rotate(180 95.05390906945078 0)" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+        <g class="relationship" transform="translate(-126.76946460348996 -192.08400103432842) rotate(343.58357923349047)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 70.51790525792524 0.5 L 70.51790525792524 -0.5 L 25 -0.5 Z M 143.19368650792524 0.5 L 188.71159176585047 0.5 L 188.71159176585047 3.5 L 195.71159176585047 0 L 188.71159176585047 -3.5 L 188.71159176585047 -0.5 L 143.19368650792524 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="106.85579588292524" y="3" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+        <g class="relationship" transform="translate(-65.02464035063275 -76.6708215107227) rotate(310.14824312571955)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 76.45909214519445 0.5 L 76.45909214519445 -0.5 L 25 -0.5 Z M 149.13487339519446 0.5 L 200.5939655403889 0.5 L 200.5939655403889 3.5 L 207.5939655403889 0 L 200.5939655403889 -3.5 L 200.5939655403889 -0.5 L 149.13487339519446 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="112.79698277019445" y="3" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+        <g class="relationship" transform="translate(161.97495540440485 162.3927008749852) rotate(226.48275574717593)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 124.99549814106004 0.5 L 124.99549814106004 -0.5 L 25 -0.5 Z M 197.67127939106004 0.5 L 297.6667775321201 0.5 L 297.6667775321201 3.5 L 304.6667775321201 0 L 297.6667775321201 -3.5 L 297.6667775321201 -0.5 L 197.67127939106004 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="161.33338876606004" y="3" transform="rotate(180 161.33338876606004 0)" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+        <g class="relationship" transform="translate(161.97495540440485 162.3927008749852) rotate(254.54367122183464)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 74.49885957513462 0.5 L 74.49885957513462 -0.5 L 25 -0.5 Z M 147.17464082513462 0.5 L 196.67350040026923 0.5 L 196.67350040026923 3.5 L 203.67350040026923 0 L 196.67350040026923 -3.5 L 196.67350040026923 -0.5 L 147.17464082513462 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="110.83675020013462" y="3" transform="rotate(180 110.83675020013462 0)" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+        <g class="relationship" transform="translate(161.97495540440485 162.3927008749852) rotate(237.82468718624762)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 157.5369844420946 0.5 L 157.5369844420946 -0.5 L 25 -0.5 Z M 230.2127656920946 0.5 L 362.7497501341892 0.5 L 362.7497501341892 3.5 L 369.7497501341892 0 L 362.7497501341892 -3.5 L 362.7497501341892 -0.5 L 230.2127656920946 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="193.8748750670946" y="3" transform="rotate(180 193.8748750670946 0)" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+        <g class="relationship" transform="translate(161.97495540440485 162.3927008749852) rotate(324.12314530156084)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 32.80808664731384 0.5 L 32.80808664731384 -0.5 L 25 -0.5 Z M 105.48386789731384 0.5 L 113.29195454462769 0.5 L 113.29195454462769 3.5 L 120.29195454462769 0 L 113.29195454462769 -3.5 L 113.29195454462769 -0.5 L 105.48386789731384 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="69.14597727231384" y="3" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+        <g class="relationship" transform="translate(161.97495540440485 162.3927008749852) rotate(287.2591231299869)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 151.58092182490347 0.5 L 151.58092182490347 -0.5 L 25 -0.5 Z M 224.25670307490347 0.5 L 350.83762489980694 0.5 L 350.83762489980694 3.5 L 357.83762489980694 0 L 350.83762489980694 -3.5 L 350.83762489980694 -0.5 L 224.25670307490347 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="187.91881244990347" y="3" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+        <g class="relationship" transform="translate(161.97495540440485 162.3927008749852) rotate(200.42384082119122)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 196.77945327491867 0.5 L 196.77945327491867 -0.5 L 25 -0.5 Z M 269.45523452491864 0.5 L 441.23468779983733 0.5 L 441.23468779983733 3.5 L 448.23468779983733 0 L 441.23468779983733 -3.5 L 441.23468779983733 -0.5 L 269.45523452491864 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="233.11734389991867" y="3" transform="rotate(180 233.11734389991867 0)" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+        <g class="relationship" transform="translate(275.5604430066599 -203.206784963115) rotate(195.0500501998966)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 58.855381678369994 0.5 L 58.855381678369994 -0.5 L 25 -0.5 Z M 131.53116292837 0.5 L 165.38654460674 0.5 L 165.38654460674 3.5 L 172.38654460674 0 L 165.38654460674 -3.5 L 165.38654460674 -0.5 L 131.53116292837 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="95.19327230337" y="3" transform="rotate(180 95.19327230337 0)" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+        <g class="relationship" transform="translate(199.4739961952357 -128.45253878072813) rotate(428.6928061946543)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 70.55687828109895 0.5 L 70.55687828109895 -0.5 L 25 -0.5 Z M 143.23265953109893 0.5 L 188.7895378121979 0.5 L 188.7895378121979 3.5 L 195.7895378121979 0 L 188.7895378121979 -3.5 L 188.7895378121979 -0.5 L 143.23265953109893 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="106.89476890609895" y="3" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+        <g class="relationship" transform="translate(199.4739961952357 -128.45253878072813) rotate(504.4135258738344)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 27.797774240772796 0.5 L 27.797774240772796 -0.5 L 25 -0.5 Z M 86.2508992407728 0.5 L 89.04867348154559 0.5 L 89.04867348154559 3.5 L 96.04867348154559 0 L 89.04867348154559 -3.5 L 89.04867348154559 -0.5 L 86.2508992407728 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="57.024336740772796" y="3" transform="rotate(180 57.024336740772796 0)" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDEN…</text>
+        </g>
+        <g class="relationship" transform="translate(199.4739961952357 -128.45253878072813) rotate(311.9022340892874)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 81.66476308870955 0.5 L 81.66476308870955 -0.5 L 25 -0.5 Z M 154.34054433870955 0.5 L 211.0053074274191 0.5 L 211.0053074274191 3.5 L 218.0053074274191 0 L 211.0053074274191 -3.5 L 211.0053074274191 -0.5 L 154.34054433870955 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="118.00265371370955" y="3" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+        <g class="relationship" transform="translate(199.4739961952357 -128.45253878072813) rotate(528.9231246218025)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 94.9219652094196 0.5 L 94.9219652094196 -0.5 L 25 -0.5 Z M 167.5977464594196 0.5 L 237.5197116688392 0.5 L 237.5197116688392 3.5 L 244.5197116688392 0 L 237.5197116688392 -3.5 L 237.5197116688392 -0.5 L 167.5977464594196 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="131.2598558344196" y="3" transform="rotate(180 131.2598558344196 0)" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+        <g class="relationship" transform="translate(199.4739961952357 -128.45253878072813) rotate(315.5060139110031)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 26.162396447675107 0.5 L 26.162396447675107 -0.5 L 25 -0.5 Z M 73.5022401976751 0.5 L 74.66463664535021 0.5 L 74.66463664535021 3.5 L 81.66463664535021 0 L 74.66463664535021 -3.5 L 74.66463664535021 -0.5 L 73.5022401976751 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="49.83231832267511" y="3" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPEND…</text>
+        </g>
+        <g class="relationship" transform="translate(199.4739961952357 -128.45253878072813) rotate(525.3534729657582)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 208.7319523792016 0.5 L 208.7319523792016 -0.5 L 25 -0.5 Z M 281.40773362920163 0.5 L 465.1396860084032 0.5 L 465.1396860084032 3.5 L 472.1396860084032 0 L 465.1396860084032 -3.5 L 465.1396860084032 -0.5 L 281.40773362920163 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="245.0698430042016" y="3" transform="rotate(180 245.0698430042016 0)" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+        <g class="relationship" transform="translate(199.4739961952357 -128.45253878072813) rotate(227.73210475201188)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 45.30183639084724 0.5 L 45.30183639084724 -0.5 L 25 -0.5 Z M 117.97761764084724 0.5 L 138.27945403169448 0.5 L 138.27945403169448 3.5 L 145.27945403169448 0 L 138.27945403169448 -3.5 L 138.27945403169448 -0.5 L 117.97761764084724 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="81.63972701584724" y="3" transform="rotate(180 81.63972701584724 0)" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+        <g class="relationship" transform="translate(199.4739961952357 -128.45253878072813) rotate(334.6697622840444)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 55.78022789897001 0.5 L 55.78022789897001 -0.5 L 25 -0.5 Z M 128.45600914897 0.5 L 159.23623704794002 0.5 L 159.23623704794002 3.5 L 166.23623704794002 0 L 159.23623704794002 -3.5 L 159.23623704794002 -0.5 L 128.45600914897 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="92.11811852397001" y="3" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+        <g class="relationship" transform="translate(199.4739961952357 -128.45253878072813) rotate(398.33541243896457)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 49.76178865419327 0.5 L 49.76178865419327 -0.5 L 25 -0.5 Z M 122.43756990419327 0.5 L 147.19935855838654 0.5 L 147.19935855838654 3.5 L 154.19935855838654 0 L 147.19935855838654 -3.5 L 147.19935855838654 -0.5 L 122.43756990419327 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="86.09967927919327" y="3" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+        <g class="relationship" transform="translate(199.4739961952357 -128.45253878072813) rotate(430.33492297020223)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 25.948216471894924 0.5 L 25.948216471894924 -0.5 L 25 -0.5 Z M 90.17868522189492 0.5 L 91.12690169378985 0.5 L 91.12690169378985 3.5 L 98.12690169378985 0 L 91.12690169378985 -3.5 L 91.12690169378985 -0.5 L 90.17868522189492 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="58.06345084689492" y="3" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENC…</text>
+        </g>
+        <g class="relationship" transform="translate(199.4739961952357 -128.45253878072813) rotate(364.9103267612419)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 33.34805071311982 0.5 L 33.34805071311982 -0.5 L 25 -0.5 Z M 106.02383196311982 0.5 L 114.37188267623964 0.5 L 114.37188267623964 3.5 L 121.37188267623964 0 L 114.37188267623964 -3.5 L 114.37188267623964 -0.5 L 106.02383196311982 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="69.68594133811982" y="3" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+        <g class="relationship" transform="translate(199.4739961952357 -128.45253878072813) rotate(189.91076533126056)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 85.8923165075136 0.5 L 85.8923165075136 -0.5 L 25 -0.5 Z M 158.5680977575136 0.5 L 219.4604142650272 0.5 L 219.4604142650272 3.5 L 226.4604142650272 0 L 219.4604142650272 -3.5 L 219.4604142650272 -0.5 L 158.5680977575136 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="122.2302071325136" y="3" transform="rotate(180 122.2302071325136 0)" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+        <g class="relationship" transform="translate(199.4739961952357 -128.45253878072813) rotate(180.67268321278715)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 42.625330184391046 0.5 L 42.625330184391046 -0.5 L 25 -0.5 Z M 115.30111143439105 0.5 L 132.9264416187821 0.5 L 132.9264416187821 3.5 L 139.9264416187821 0 L 132.9264416187821 -3.5 L 132.9264416187821 -0.5 L 115.30111143439105 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="78.96322080939105" y="3" transform="rotate(180 78.96322080939105 0)" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+        <g class="relationship" transform="translate(199.4739961952357 -128.45253878072813) rotate(462.96460732489624)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 48.54190637812576 0.5 L 48.54190637812576 -0.5 L 25 -0.5 Z M 121.21768762812576 0.5 L 144.75959400625152 0.5 L 144.75959400625152 3.5 L 151.75959400625152 0 L 144.75959400625152 -3.5 L 144.75959400625152 -0.5 L 121.21768762812576 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="84.87979700312576" y="3" transform="rotate(180 84.87979700312576 0)" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+        <g class="relationship" transform="translate(23.558988434505252 -415.2261518751783) rotate(193.74483502495724)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 36.51121904465484 0.5 L 36.51121904465484 -0.5 L 25 -0.5 Z M 109.18700029465484 0.5 L 120.69821933930967 0.5 L 120.69821933930967 3.5 L 127.69821933930967 0 L 120.69821933930967 -3.5 L 120.69821933930967 -0.5 L 109.18700029465484 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="72.84910966965484" y="3" transform="rotate(180 72.84910966965484 0)" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+        <g class="relationship" transform="translate(23.558988434505252 -415.2261518751783) rotate(429.10154235061145)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 46.20525699698578 0.5 L 46.20525699698578 -0.5 L 25 -0.5 Z M 118.88103824698578 0.5 L 140.08629524397156 0.5 L 140.08629524397156 3.5 L 147.08629524397156 0 L 140.08629524397156 -3.5 L 140.08629524397156 -0.5 L 118.88103824698578 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="82.54314762198578" y="3" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+        <g class="relationship" transform="translate(23.558988434505252 -415.2261518751783) rotate(247.51146423143427)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 33.124543735321794 0.5 L 33.124543735321794 -0.5 L 25 -0.5 Z M 105.8003249853218 0.5 L 113.92486872064359 0.5 L 113.92486872064359 3.5 L 120.92486872064359 0 L 113.92486872064359 -3.5 L 113.92486872064359 -0.5 L 105.8003249853218 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="69.4624343603218" y="3" transform="rotate(180 69.4624343603218 0)" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+        <g class="relationship" transform="translate(361.767904110439 -309.3178668331384) rotate(496.05484155079046)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 141.2271959041468 0.5 L 141.2271959041468 -0.5 L 25 -0.5 Z M 213.9029771541468 0.5 L 330.1301730582936 0.5 L 330.1301730582936 3.5 L 337.1301730582936 0 L 330.1301730582936 -3.5 L 330.1301730582936 -0.5 L 213.9029771541468 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="177.5650865291468" y="3" transform="rotate(180 177.5650865291468 0)" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+        <g class="relationship" transform="translate(361.767904110439 -309.3178668331384) rotate(528.791113243804)">
+            <path class="b-outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 101.26541380067329 0.5 L 101.26541380067329 -0.5 L 25 -0.5 Z M 173.9411950506733 0.5 L 250.20660885134657 0.5 L 250.20660885134657 3.5 L 257.2066088513466 0 L 250.20660885134657 -3.5 L 250.20660885134657 -0.5 L 173.9411950506733 -0.5 Z" />
+            <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="137.6033044256733" y="3" transform="rotate(180 137.6033044256733 0)" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">DEPENDENCYOF</text>
+        </g>
+    </g>
+    <g class="layer nodes">
+        <g class="node" aria-label="graph-node0" transform="translate(372.3241860260543,-210.27008112774496)">
+            <circle class="b-outline" cx="0" cy="0" r="25" fill="#C990C0" stroke="#b261a5" stroke-width="2px" />
+            <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"> provider…</text>
+        </g>
+        <g class="node" aria-label="graph-node1" transform="translate(159.81813597232076,43.80124731187274)">
+            <circle class="b-outline" cx="0" cy="0" r="25" fill="#C990C0" stroke="#b261a5" stroke-width="2px" />
+            <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"> provider…</text>
+        </g>
+        <g class="node" aria-label="graph-node2" transform="translate(-10.913515058763437,201.64212762037266)">
+            <circle class="b-outline" cx="0" cy="0" r="25" fill="#C990C0" stroke="#b261a5" stroke-width="2px" />
+            <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"> provider…</text>
+        </g>
+        <g class="node" aria-label="graph-node3" transform="translate(345.3086772006847,-115.92361806800126)">
+            <circle class="b-outline" cx="0" cy="0" r="25" fill="#C990C0" stroke="#b261a5" stroke-width="2px" />
+            <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"> provider…</text>
+        </g>
+        <g class="node" aria-label="graph-node4" transform="translate(340.0367469251667,-17.301635883034734)">
+            <circle class="b-outline" cx="0" cy="0" r="25" fill="#C990C0" stroke="#b261a5" stroke-width="2px" />
+            <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"> provider…</text>
+        </g>
+        <g class="node" aria-label="graph-node5" transform="translate(75.00005522959094,237.4479124448461)">
+            <circle class="b-outline" cx="0" cy="0" r="25" fill="#C990C0" stroke="#b261a5" stroke-width="2px" />
+            <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"> provider…</text>
+        </g>
+        <g class="node" aria-label="graph-node6" transform="translate(-206.7068878640819,-92.14346274113274)">
+            <circle class="b-outline" cx="0" cy="0" r="25" fill="#C990C0" stroke="#b261a5" stroke-width="2px" />
+            <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"> utils/bab…</text>
+        </g>
+        <g class="node" aria-label="graph-node7" transform="translate(-49.054015486494876,-320.9344820303262)">
+            <circle class="b-outline" cx="0" cy="0" r="25" fill="#C990C0" stroke="#b261a5" stroke-width="2px" />
+            <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"> utils/logg…</text>
+        </g>
+        <g class="node" aria-label="graph-node44" transform="translate(-32.25706473463776,-550.0543222245399)">
+            <circle class="b-outline" cx="0" cy="0" r="25" fill="#C990C0" stroke="#b261a5" stroke-width="2px" />
+            <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"> cli/creat…</text>
+        </g>
+        <g class="node" aria-label="graph-node45" transform="translate(-124.76648716424074,-451.5069936212257)">
+            <circle class="b-outline" cx="0" cy="0" r="25" fill="#C990C0" stroke="#b261a5" stroke-width="2px" />
+            <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"> cli/creat…</text>
+        </g>
+        <g class="node" aria-label="graph-node46" transform="translate(-281.5107173890451,-2.7482321608630684)">
+            <circle class="b-outline" cx="0" cy="0" r="25" fill="#C990C0" stroke="#b261a5" stroke-width="2px" />
+            <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"> core/ad…</text>
+        </g>
+        <g class="node" aria-label="graph-node47" transform="translate(-48.2338755464022,-171.7324442747024)">
+            <circle class="b-outline" cx="0" cy="0" r="25" fill="#C990C0" stroke="#b261a5" stroke-width="2px" />
+            <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"> core/ad…</text>
+        </g>
+        <g class="node" aria-label="graph-node48" transform="translate(34.55892119326247,-130.388819268436)">
+            <circle class="b-outline" cx="0" cy="0" r="25" fill="#C990C0" stroke="#b261a5" stroke-width="2px" />
+            <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"> core/con…</text>
+        </g>
+        <g class="node" aria-label="graph-node49" transform="translate(101.03259561071837,-58.0105626400744)">
+            <circle class="b-outline" cx="0" cy="0" r="25" fill="#C990C0" stroke="#b261a5" stroke-width="2px" />
+            <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"> core/con…</text>
+        </g>
+        <g class="node" aria-label="graph-node50" transform="translate(-126.76946460348996,-192.08400103432842)">
+            <circle class="b-outline" cx="0" cy="0" r="25" fill="#C990C0" stroke="#b261a5" stroke-width="2px" />
+            <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"> core/dat…</text>
+        </g>
+        <g class="node" aria-label="graph-node51" transform="translate(-65.02464035063275,-76.6708215107227)">
+            <circle class="b-outline" cx="0" cy="0" r="25" fill="#C990C0" stroke="#b261a5" stroke-width="2px" />
+            <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"> core/em…</text>
+        </g>
+        <g class="node" aria-label="graph-node52" transform="translate(161.97495540440485,162.3927008749852)">
+            <circle class="b-outline" cx="0" cy="0" r="25" fill="#C990C0" stroke="#b261a5" stroke-width="2px" />
+            <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"> core/hel…</text>
+        </g>
+        <g class="node" aria-label="graph-node53" transform="translate(84.94438147204602,-254.46071239137012)">
+            <circle class="b-outline" cx="0" cy="0" r="25" fill="#C990C0" stroke="#b261a5" stroke-width="2px" />
+            <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"> core/strapi</text>
+        </g>
+        <g class="node" aria-label="graph-node54" transform="translate(275.5604430066599,-203.206784963115)">
+            <circle class="b-outline" cx="0" cy="0" r="25" fill="#C990C0" stroke="#b261a5" stroke-width="2px" />
+            <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"> core/upl…</text>
+        </g>
+        <g class="node" aria-label="graph-node55" transform="translate(199.4739961952357,-128.45253878072813)">
+            <circle class="b-outline" cx="0" cy="0" r="25" fill="#C990C0" stroke="#b261a5" stroke-width="2px" />
+            <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"> core/utils</text>
+        </g>
+        <g class="node" aria-label="graph-node56" transform="translate(23.558988434505252,-415.2261518751783)">
+            <circle class="b-outline" cx="0" cy="0" r="25" fill="#C990C0" stroke="#b261a5" stroke-width="2px" />
+            <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"> generato…</text>
+        </g>
+        <g class="node" aria-label="graph-node57" transform="translate(361.767904110439,-309.3178668331384)">
+            <circle class="b-outline" cx="0" cy="0" r="25" fill="#C990C0" stroke="#b261a5" stroke-width="2px" />
+            <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"> generato…</text>
+        </g>
+        <g class="node" aria-label="graph-node58" transform="translate(279.70189459721604,77.2450653018802)">
+            <circle class="b-outline" cx="0" cy="0" r="25" fill="#C990C0" stroke="#b261a5" stroke-width="2px" />
+            <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"> plugins/…</text>
+        </g>
+        <g class="node" aria-label="graph-node59" transform="translate(240.9088273680384,-12.506910633766395)">
+            <circle class="b-outline" cx="0" cy="0" r="25" fill="#C990C0" stroke="#b261a5" stroke-width="2px" />
+            <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"> plugins/…</text>
+        </g>
+    </g>
+</svg>

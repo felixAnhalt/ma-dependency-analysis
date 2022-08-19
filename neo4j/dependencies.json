@@ -1,0 +1,287 @@
+[
+  {
+    "component": {
+      "uuid": "ATU-1",
+      "name": "admin-test-utils"
+    },
+    "dependencies": []
+  },
+  {
+    "component": {
+      "uuid": "CLI-1",
+      "name": "cli/create-strapi-app"
+    },
+    "dependencies": [
+      "GEN-1"
+    ]
+  },
+  {
+    "component": {
+      "uuid": "CLI-2",
+      "name": "cli/create-strapi-starter"
+    },
+    "dependencies": [
+      "GEN-1"
+    ]
+  },
+  {
+    "component": {
+      "uuid": "CORE-2",
+      "name": "core/admin/server"
+    },
+    "dependencies": [
+      "UTI-1",
+      "DES-1",
+      "CORE-11",
+      "DES-2",
+      "CORE-15"
+    ]
+  },
+  {
+    "component": {
+      "uuid": "CORE-4",
+      "name": "core/admin/ee/server"
+    },
+    "dependencies": [
+      "UTI-1",
+      "DES-1",
+      "CORE-11",
+      "DES-2",
+      "CORE-15"
+    ]
+  },
+  {
+    "component": {
+      "uuid": "CORE-5",
+      "name": "core/content-manager"
+    },
+    "dependencies": [
+      "CORE-15"
+    ]
+  },
+  {
+    "component": {
+      "uuid": "CORE-7",
+      "name": "core/content-type-builder/server"
+    },
+    "dependencies": [
+      "GEN-2",
+      "CORE-11",
+      "CORE-15"
+    ]
+  },
+  {
+    "component": {
+      "uuid": "CORE-8",
+      "name": "core/database"
+    },
+    "dependencies": []
+  },
+  {
+    "component": {
+      "uuid": "CORE-10",
+      "name": "core/email/server"
+    },
+    "dependencies": [
+      "PROV-5",
+      "CORE-15",
+      "CORE-11"
+    ]
+  },
+  {
+    "component": {
+      "uuid": "CORE-11",
+      "name": "core/helper-plugin"
+    },
+    "dependencies": [
+      "DES-1",
+      "DES-2"
+    ]
+  },
+  {
+    "component": {
+      "uuid": "CORE-12",
+      "name": "core/strapi"
+    },
+    "dependencies": [
+      "CORE-4",
+      "CORE-8",
+      "GEN-1",
+      "GEN-2",
+      "UTI-2",
+      "CORE-5",
+      "CORE-7",
+      "CORE-10",
+      "CORE-14",
+      "CORE-15"
+    ]
+  },
+  {
+    "component": {
+      "uuid": "CORE-14",
+      "name": "core/upload/server"
+    },
+    "dependencies": [
+      "CORE-11",
+      "PROV-8",
+      "CORE-15"
+    ]
+  },
+  {
+    "component": {
+      "uuid": "CORE-15",
+      "name": "core/utils"
+    },
+    "dependencies": []
+  },
+  {
+    "component": {
+      "uuid": "GEN-1",
+      "name": "generators/app"
+    },
+    "dependencies": []
+  },
+  {
+    "component": {
+      "uuid": "GEN-2",
+      "name": "generators/generators"
+    },
+    "dependencies": [
+      "CORE-15"
+    ]
+  },
+  {
+    "component": {
+      "uuid": "PLG-2",
+      "name": "plugins/documentation/server"
+    },
+    "dependencies": [
+      "CORE-11",
+      "CORE-15"
+    ]
+  },
+  {
+    "component": {
+      "uuid": "PLG-4",
+      "name": "plugins/graphql/server"
+    },
+    "dependencies": [
+      "CORE-15"
+    ]
+  },
+  {
+    "component": {
+      "uuid": "PLG-6",
+      "name": "plugins/i18n/server"
+    },
+    "dependencies": [
+      "CORE-15"
+    ]
+  },
+  {
+    "component": {
+      "uuid": "PLG-8",
+      "name": "plugins/sentry/server"
+    },
+    "dependencies": []
+  },
+  {
+    "component": {
+      "uuid": "PLG-10",
+      "name": "plugins/users-permissions/server"
+    },
+    "dependencies": [
+      "CORE-11",
+      "CORE-15"
+    ]
+  },
+  {
+    "component": {
+      "uuid": "PROV-1",
+      "name": "providers/email-amazon-ses"
+    },
+    "dependencies": [
+      "CORE-15"
+    ]
+  },
+  {
+    "component": {
+      "uuid": "PROV-2",
+      "name": "providers/email-mailgun"
+    },
+    "dependencies": [
+      "CORE-15"
+    ]
+  },
+  {
+    "component": {
+      "uuid": "PROV-3",
+      "name": "providers/email-nodemailer"
+    },
+    "dependencies": []
+  },
+  {
+    "component": {
+      "uuid": "PROV-4",
+      "name": "providers/email-sendgrid"
+    },
+    "dependencies": [
+      "CORE-15"
+    ]
+  },
+  {
+    "component": {
+      "uuid": "PROV-5",
+      "name": "providers/email-sendmail"
+    },
+    "dependencies": [
+      "CORE-15"
+    ]
+  },
+  {
+    "component": {
+      "uuid": "PROV-6",
+      "name": "providers/upload-aws-s3"
+    },
+    "dependencies": []
+  },
+  {
+    "component": {
+      "uuid": "PROV-7",
+      "name": "providers/upload-cloudinary"
+    },
+    "dependencies": [
+      "CORE-15"
+    ]
+  },
+  {
+    "component": {
+      "uuid": "PROV-8",
+      "name": "providers/upload-local"
+    },
+    "dependencies": [
+      "CORE-15"
+    ]
+  },
+  {
+    "component": {
+      "uuid": "PROV-9",
+      "name": "providers/upload-rackspace"
+    },
+    "dependencies": []
+  },
+  {
+    "component": {
+      "uuid": "UTI-1",
+      "name": "utils/babel-plugin-switch-ee-ce"
+    },
+    "dependencies": []
+  },
+  {
+    "component": {
+      "uuid": "UTI-2",
+      "name": "utils/logger"
+    },
+    "dependencies": []
+  }
+]
